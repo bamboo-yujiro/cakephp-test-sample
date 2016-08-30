@@ -4,7 +4,10 @@ App::uses('Controller', 'Controller');
 
 class AppController extends Controller {
 
-  public $components = ['DebugKit.Toolbar'];
+  public $components = [
+    'DebugKit.Toolbar',
+    'Session'
+  ];
 
   public $uses = [
     'Post'

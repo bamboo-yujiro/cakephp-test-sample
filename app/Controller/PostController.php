@@ -14,4 +14,15 @@ class PostController extends AppController {
     $this->set(compact('post'));
   }
 
+  public function add(){
+    $this->set('title_for_layout', '記事追加画面');
+    if ($this->request->is('post')) {
+      if ($this->Post->save($this->request->data)) {
+        $this->Session->setFlash('追加しました。');
+        return $this->redirect(['action' => 'index']);
+      }
+    }
+    return $this->render();
+  }
+
 }

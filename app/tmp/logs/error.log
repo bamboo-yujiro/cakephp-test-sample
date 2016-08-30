@@ -1223,3 +1223,114 @@ Stack Trace:
 #3 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Core/App.php(906): App::_checkFatalError()
 #4 [internal function]: App::shutdown()
 #5 {main}
+2016-08-30 18:25:11 Error: [UnexpectedValueException] Referenced fixture class Post (Test/Fixture/PostFixture.php) not found
+Stack Trace:
+#0 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/TestSuite/Fixture/CakeFixtureManager.php(77): CakeFixtureManager->_loadFixtures(Array)
+#1 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/TestSuite/CakeTestRunner.php(57): CakeFixtureManager->fixturize(Object(PostControllerTest))
+#2 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/TestSuite/CakeTestSuiteCommand.php(98): CakeTestRunner->doRun(Object(PHPUnit_Framework_TestSuite), Array)
+#3 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/TestSuite/CakeTestSuiteDispatcher.php(259): CakeTestSuiteCommand->run(Array)
+#4 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/TestSuite/CakeTestSuiteDispatcher.php(96): CakeTestSuiteDispatcher->_runTestCase()
+#5 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/TestSuite/CakeTestSuiteDispatcher.php(113): CakeTestSuiteDispatcher->dispatch()
+#6 /var/www/my_cakephp.com/app/webroot/test.php(99): CakeTestSuiteDispatcher::run()
+#7 {main}
+2016-08-30 18:26:11 Error: Fatal Error (1): Class 'AppController' not found in [/var/www/my_cakephp.com/app/Controller/PostController.php, line 3]
+2016-08-30 18:26:11 Error: [FatalErrorException] Class 'AppController' not found
+Request URL: /post/index
+Stack Trace:
+#0 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Class 'AppContr...', '/var/www/my_cak...', 3)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'AppContr...', '/var/www/my_cak...', 3, Array)
+#2 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Class 'AppContr...', '/var/www/my_cak...', 3, Array)
+#3 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-08-30 18:28:34 Error: [UnexpectedValueException] Referenced fixture class Post (Test/Fixture/PostFixture.php) not found
+Stack Trace:
+#0 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/TestSuite/Fixture/CakeFixtureManager.php(77): CakeFixtureManager->_loadFixtures(Array)
+#1 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/TestSuite/CakeTestRunner.php(57): CakeFixtureManager->fixturize(Object(PostControllerTest))
+#2 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/TestSuite/CakeTestSuiteCommand.php(98): CakeTestRunner->doRun(Object(PHPUnit_Framework_TestSuite), Array)
+#3 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/TestSuite/CakeTestSuiteDispatcher.php(259): CakeTestSuiteCommand->run(Array)
+#4 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/TestSuite/CakeTestSuiteDispatcher.php(96): CakeTestSuiteDispatcher->_runTestCase()
+#5 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/TestSuite/CakeTestSuiteDispatcher.php(113): CakeTestSuiteDispatcher->dispatch()
+#6 /var/www/my_cakephp.com/app/webroot/test.php(99): CakeTestSuiteDispatcher::run()
+#7 {main}
+2016-08-30 18:33:52 Error: [CakeException] Fixture invalid: Count of fields does not match count of values in PostFixture
+The field 'body' is in the data fixture but not in the schema.
+The field 'published' is in the data fixture but not in the schema.
+
+Stack Trace:
+#0 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/TestSuite/Fixture/CakeFixtureManager.php(233): CakeTestFixture->insert(Object(Mysql))
+#1 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/TestSuite/CakeTestCase.php(80): CakeFixtureManager->load(Object(PostControllerTest))
+#2 /var/www/my_cakephp.com/Vendor/phpunit/phpunit/PHPUnit/Framework/TestSuite.php(779): CakeTestCase->run(Object(PHPUnit_Framework_TestResult))
+#3 /var/www/my_cakephp.com/Vendor/phpunit/phpunit/PHPUnit/Framework/TestSuite.php(749): PHPUnit_Framework_TestSuite->runTest(Object(PostControllerTest), Object(PHPUnit_Framework_TestResult))
+#4 /var/www/my_cakephp.com/Vendor/phpunit/phpunit/PHPUnit/TextUI/TestRunner.php(350): PHPUnit_Framework_TestSuite->run(Object(PHPUnit_Framework_TestResult), false, Array, Array, false)
+#5 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/TestSuite/CakeTestRunner.php(62): PHPUnit_TextUI_TestRunner->doRun(Object(PHPUnit_Framework_TestSuite), Array)
+#6 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/TestSuite/CakeTestSuiteCommand.php(98): CakeTestRunner->doRun(Object(PHPUnit_Framework_TestSuite), Array)
+#7 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/TestSuite/CakeTestSuiteDispatcher.php(259): CakeTestSuiteCommand->run(Array)
+#8 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/TestSuite/CakeTestSuiteDispatcher.php(96): CakeTestSuiteDispatcher->_runTestCase()
+#9 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/TestSuite/CakeTestSuiteDispatcher.php(113): CakeTestSuiteDispatcher->dispatch()
+#10 /var/www/my_cakephp.com/app/webroot/test.php(99): CakeTestSuiteDispatcher::run()
+#11 {main}
+2016-08-30 18:34:14 Error: [CakeException] Fixture invalid: Count of fields does not match count of values in PostFixture
+The field 'published' is in the data fixture but not in the schema.
+
+Stack Trace:
+#0 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/TestSuite/Fixture/CakeFixtureManager.php(233): CakeTestFixture->insert(Object(Mysql))
+#1 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/TestSuite/CakeTestCase.php(80): CakeFixtureManager->load(Object(PostControllerTest))
+#2 /var/www/my_cakephp.com/Vendor/phpunit/phpunit/PHPUnit/Framework/TestSuite.php(779): CakeTestCase->run(Object(PHPUnit_Framework_TestResult))
+#3 /var/www/my_cakephp.com/Vendor/phpunit/phpunit/PHPUnit/Framework/TestSuite.php(749): PHPUnit_Framework_TestSuite->runTest(Object(PostControllerTest), Object(PHPUnit_Framework_TestResult))
+#4 /var/www/my_cakephp.com/Vendor/phpunit/phpunit/PHPUnit/TextUI/TestRunner.php(350): PHPUnit_Framework_TestSuite->run(Object(PHPUnit_Framework_TestResult), false, Array, Array, false)
+#5 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/TestSuite/CakeTestRunner.php(62): PHPUnit_TextUI_TestRunner->doRun(Object(PHPUnit_Framework_TestSuite), Array)
+#6 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/TestSuite/CakeTestSuiteCommand.php(98): CakeTestRunner->doRun(Object(PHPUnit_Framework_TestSuite), Array)
+#7 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/TestSuite/CakeTestSuiteDispatcher.php(259): CakeTestSuiteCommand->run(Array)
+#8 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/TestSuite/CakeTestSuiteDispatcher.php(96): CakeTestSuiteDispatcher->_runTestCase()
+#9 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/TestSuite/CakeTestSuiteDispatcher.php(113): CakeTestSuiteDispatcher->dispatch()
+#10 /var/www/my_cakephp.com/app/webroot/test.php(99): CakeTestSuiteDispatcher::run()
+#11 {main}
+2016-08-30 18:58:18 Error: Fatal Error (1): Call to a member function setFlash() on a non-object in [/var/www/my_cakephp.com/app/Controller/PostController.php, line 21]
+2016-08-30 18:58:18 Error: [FatalErrorException] Call to a member function setFlash() on a non-object
+Request URL: /post/add
+Stack Trace:
+#0 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/my_cak...', 21)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/my_cak...', 21, Array)
+#2 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/my_cak...', 21, Array)
+#3 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-08-30 19:00:38 Error: Fatal Error (1): Call to a member function setFlash() on a non-object in [/var/www/my_cakephp.com/app/Controller/PostController.php, line 21]
+2016-08-30 19:00:38 Error: [FatalErrorException] Call to a member function setFlash() on a non-object
+Request URL: /post/add
+Stack Trace:
+#0 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/my_cak...', 21)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/my_cak...', 21, Array)
+#2 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/my_cak...', 21, Array)
+#3 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-08-30 19:02:01 Error: Fatal Error (1): Call to a member function setFlash() on a non-object in [/var/www/my_cakephp.com/app/Controller/PostController.php, line 21]
+2016-08-30 19:02:01 Error: [FatalErrorException] Call to a member function setFlash() on a non-object
+Request URL: /post/add
+Stack Trace:
+#0 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/my_cak...', 21)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/my_cak...', 21, Array)
+#2 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/my_cak...', 21, Array)
+#3 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-08-30 19:20:56 Error: Fatal Error (1): Class 'PostTest' not found in [/var/www/my_cakephp.com/app/Test/Case/Model/PostTest.php, line 9]
+2016-08-30 19:20:56 Error: [FatalErrorException] Class 'PostTest' not found
+Stack Trace:
+#0 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Class 'PostTest...', '/var/www/my_cak...', 9)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'PostTest...', '/var/www/my_cak...', 9, Array)
+#2 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Class 'PostTest...', '/var/www/my_cak...', 9, Array)
+#3 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-08-30 19:21:06 Error: Fatal Error (1): Call to undefined method PostTest::create() in [/var/www/my_cakephp.com/app/Test/Case/Model/PostTest.php, line 18]
+2016-08-30 19:21:06 Error: [FatalErrorException] Call to undefined method PostTest::create()
+Stack Trace:
+#0 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/var/www/my_cak...', 18)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/var/www/my_cak...', 18, Array)
+#2 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/var/www/my_cak...', 18, Array)
+#3 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
