@@ -1,0 +1,1225 @@
+2016-08-29 18:05:13 Error: [ConfigureException] Could not load configuration file: /var/www/my_cakephp.com/app/Config/const.php
+Stack Trace:
+#0 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Core/Configure.php(299): PhpReader->read('const')
+#1 /var/www/my_cakephp.com/app/Config/bootstrap.php(112): Configure::load('const')
+#2 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Core/Configure.php(92): include('/var/www/my_cak...')
+#3 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/bootstrap.php(175): Configure::bootstrap(true)
+#4 /var/www/my_cakephp.com/app/webroot/index.php(95): include('/var/www/my_cak...')
+#5 {main}
+2016-08-29 18:05:13 Error: [ConfigureException] Could not load configuration file: /var/www/my_cakephp.com/app/Config/const.php
+Stack Trace:
+#0 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Core/Configure.php(299): PhpReader->read('const')
+#1 /var/www/my_cakephp.com/app/Config/bootstrap.php(112): Configure::load('const')
+#2 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Core/Configure.php(92): include('/var/www/my_cak...')
+#3 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/bootstrap.php(175): Configure::bootstrap(true)
+#4 /var/www/my_cakephp.com/app/webroot/index.php(95): include('/var/www/my_cak...')
+#5 {main}
+2016-08-29 18:05:13 Error: [ConfigureException] Could not load configuration file: /var/www/my_cakephp.com/app/Config/const.php
+Stack Trace:
+#0 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Core/Configure.php(299): PhpReader->read('const')
+#1 /var/www/my_cakephp.com/app/Config/bootstrap.php(112): Configure::load('const')
+#2 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Core/Configure.php(92): include('/var/www/my_cak...')
+#3 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/bootstrap.php(175): Configure::bootstrap(true)
+#4 /var/www/my_cakephp.com/app/webroot/index.php(95): include('/var/www/my_cak...')
+#5 {main}
+2016-08-29 18:05:13 Error: [ConfigureException] Could not load configuration file: /var/www/my_cakephp.com/app/Config/const.php
+Stack Trace:
+#0 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Core/Configure.php(299): PhpReader->read('const')
+#1 /var/www/my_cakephp.com/app/Config/bootstrap.php(112): Configure::load('const')
+#2 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Core/Configure.php(92): include('/var/www/my_cak...')
+#3 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/bootstrap.php(175): Configure::bootstrap(true)
+#4 /var/www/my_cakephp.com/app/webroot/index.php(95): include('/var/www/my_cak...')
+#5 {main}
+2016-08-29 18:05:13 Error: [ConfigureException] Could not load configuration file: /var/www/my_cakephp.com/app/Config/const.php
+Stack Trace:
+#0 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Core/Configure.php(299): PhpReader->read('const')
+#1 /var/www/my_cakephp.com/app/Config/bootstrap.php(112): Configure::load('const')
+#2 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Core/Configure.php(92): include('/var/www/my_cak...')
+#3 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/bootstrap.php(175): Configure::bootstrap(true)
+#4 /var/www/my_cakephp.com/app/webroot/index.php(95): include('/var/www/my_cak...')
+#5 {main}
+2016-08-29 18:05:13 Error: [ConfigureException] Could not load configuration file: /var/www/my_cakephp.com/app/Config/const.php
+Stack Trace:
+#0 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Core/Configure.php(299): PhpReader->read('const')
+#1 /var/www/my_cakephp.com/app/Config/bootstrap.php(112): Configure::load('const')
+#2 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Core/Configure.php(92): include('/var/www/my_cak...')
+#3 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/bootstrap.php(175): Configure::bootstrap(true)
+#4 /var/www/my_cakephp.com/app/webroot/index.php(95): include('/var/www/my_cak...')
+#5 {main}
+2016-08-29 18:05:17 Error: [ConfigureException] Could not load configuration file: /var/www/my_cakephp.com/app/Config/const.php
+Stack Trace:
+#0 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Core/Configure.php(299): PhpReader->read('const')
+#1 /var/www/my_cakephp.com/app/Config/bootstrap.php(112): Configure::load('const')
+#2 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Core/Configure.php(92): include('/var/www/my_cak...')
+#3 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/bootstrap.php(175): Configure::bootstrap(true)
+#4 /var/www/my_cakephp.com/app/webroot/index.php(95): include('/var/www/my_cak...')
+#5 {main}
+2016-08-29 18:05:17 Error: [ConfigureException] Could not load configuration file: /var/www/my_cakephp.com/app/Config/const.php
+Stack Trace:
+#0 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Core/Configure.php(299): PhpReader->read('const')
+#1 /var/www/my_cakephp.com/app/Config/bootstrap.php(112): Configure::load('const')
+#2 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Core/Configure.php(92): include('/var/www/my_cak...')
+#3 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/bootstrap.php(175): Configure::bootstrap(true)
+#4 /var/www/my_cakephp.com/app/webroot/index.php(95): include('/var/www/my_cak...')
+#5 {main}
+2016-08-29 18:05:17 Error: [ConfigureException] Could not load configuration file: /var/www/my_cakephp.com/app/Config/const.php
+Stack Trace:
+#0 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Core/Configure.php(299): PhpReader->read('const')
+#1 /var/www/my_cakephp.com/app/Config/bootstrap.php(112): Configure::load('const')
+#2 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Core/Configure.php(92): include('/var/www/my_cak...')
+#3 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/bootstrap.php(175): Configure::bootstrap(true)
+#4 /var/www/my_cakephp.com/app/webroot/index.php(95): include('/var/www/my_cak...')
+#5 {main}
+2016-08-29 18:05:17 Error: [ConfigureException] Could not load configuration file: /var/www/my_cakephp.com/app/Config/const.php
+Stack Trace:
+#0 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Core/Configure.php(299): PhpReader->read('const')
+#1 /var/www/my_cakephp.com/app/Config/bootstrap.php(112): Configure::load('const')
+#2 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Core/Configure.php(92): include('/var/www/my_cak...')
+#3 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/bootstrap.php(175): Configure::bootstrap(true)
+#4 /var/www/my_cakephp.com/app/webroot/index.php(95): include('/var/www/my_cak...')
+#5 {main}
+2016-08-29 18:05:17 Error: [ConfigureException] Could not load configuration file: /var/www/my_cakephp.com/app/Config/const.php
+Stack Trace:
+#0 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Core/Configure.php(299): PhpReader->read('const')
+#1 /var/www/my_cakephp.com/app/Config/bootstrap.php(112): Configure::load('const')
+#2 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Core/Configure.php(92): include('/var/www/my_cak...')
+#3 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/bootstrap.php(175): Configure::bootstrap(true)
+#4 /var/www/my_cakephp.com/app/webroot/index.php(95): include('/var/www/my_cak...')
+#5 {main}
+2016-08-29 18:05:17 Error: [ConfigureException] Could not load configuration file: /var/www/my_cakephp.com/app/Config/const.php
+Stack Trace:
+#0 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Core/Configure.php(299): PhpReader->read('const')
+#1 /var/www/my_cakephp.com/app/Config/bootstrap.php(112): Configure::load('const')
+#2 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Core/Configure.php(92): include('/var/www/my_cak...')
+#3 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/bootstrap.php(175): Configure::bootstrap(true)
+#4 /var/www/my_cakephp.com/app/webroot/index.php(95): include('/var/www/my_cak...')
+#5 {main}
+2016-08-29 18:05:20 Error: [ConfigureException] Could not load configuration file: /var/www/my_cakephp.com/app/Config/const.php
+Stack Trace:
+#0 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Core/Configure.php(299): PhpReader->read('const')
+#1 /var/www/my_cakephp.com/app/Config/bootstrap.php(112): Configure::load('const')
+#2 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Core/Configure.php(92): include('/var/www/my_cak...')
+#3 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/bootstrap.php(175): Configure::bootstrap(true)
+#4 /var/www/my_cakephp.com/app/webroot/index.php(95): include('/var/www/my_cak...')
+#5 {main}
+2016-08-29 18:08:33 Error: [MissingActionException] Action PagesController::main() could not be found.
+Exception Attributes: array (
+  'controller' => 'PagesController',
+  'action' => 'main',
+)
+Request URL: /
+Stack Trace:
+#0 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#2 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-08-29 18:10:16 Error: [MissingViewException] View file "Main/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Main/index.ctp',
+)
+Request URL: /
+Stack Trace:
+#0 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/View/View.php(470): View->_getViewFileName(NULL)
+#1 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php(960): View->render(NULL, NULL)
+#2 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(MainController), Object(CakeRequest))
+#4 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-08-29 18:16:21 Error: [MissingControllerException] Controller class FormController could not be found.
+Exception Attributes: array (
+  'class' => 'FormController',
+  'plugin' => NULL,
+)
+Request URL: /form/
+Stack Trace:
+#0 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-08-29 18:16:31 Error: [MissingControllerException] Controller class HelperController could not be found.
+Exception Attributes: array (
+  'class' => 'HelperController',
+  'plugin' => NULL,
+)
+Request URL: /helper/
+Stack Trace:
+#0 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-08-29 18:16:39 Error: [MissingControllerException] Controller class ViewController could not be found.
+Exception Attributes: array (
+  'class' => 'ViewController',
+  'plugin' => NULL,
+)
+Request URL: /view/
+Stack Trace:
+#0 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-08-29 18:20:14 Error: Fatal Error (4): syntax error, unexpected '$name' (T_VARIABLE) in [/var/www/my_cakephp.com/app/Config/routes.php, line 9]
+2016-08-29 18:20:14 Error: [FatalErrorException] syntax error, unexpected '$name' (T_VARIABLE)
+Request URL: /view/
+Stack Trace:
+#0 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/my_cak...', 9)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/my_cak...', 9, Array)
+#2 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/my_cak...', 9, Array)
+#3 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-08-29 18:20:21 Error: [MissingActionException] Action MainController::view_index() could not be found.
+Exception Attributes: array (
+  'controller' => 'MainController',
+  'action' => 'view_index',
+)
+Request URL: /view/
+Stack Trace:
+#0 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(MainController), Object(CakeRequest))
+#2 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-08-29 18:26:55 Error: [MissingActionException] Action MainController::my_view_index() could not be found.
+Exception Attributes: array (
+  'controller' => 'MainController',
+  'action' => 'my_view_index',
+)
+Request URL: /my_view/
+Stack Trace:
+#0 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(MainController), Object(CakeRequest))
+#2 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-08-29 18:29:38 Error: Fatal Error (1): Class 'MyViewAppController' not found in [/var/www/my_cakephp.com/app/Controller/MyView/MainController.php, line 3]
+2016-08-29 18:29:38 Error: [FatalErrorException] Class 'MyViewAppController' not found
+Request URL: /my_view/
+Stack Trace:
+#0 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Class 'MyViewAp...', '/var/www/my_cak...', 3)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'MyViewAp...', '/var/www/my_cak...', 3, Array)
+#2 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Class 'MyViewAp...', '/var/www/my_cak...', 3, Array)
+#3 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-08-29 18:30:12 Error: [MissingViewException] View file "Main/my_view_index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Main/my_view_index.ctp',
+)
+Request URL: /my_view/
+Stack Trace:
+#0 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/View/View.php(470): View->_getViewFileName(NULL)
+#1 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php(960): View->render(NULL, NULL)
+#2 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(MainController), Object(CakeRequest))
+#4 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-08-29 18:31:11 Error: [MissingViewException] View file "Main/my_view_index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Main/my_view_index.ctp',
+)
+Request URL: /my_view/
+Stack Trace:
+#0 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/View/View.php(470): View->_getViewFileName(NULL)
+#1 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php(960): View->render(NULL, NULL)
+#2 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(MainController), Object(CakeRequest))
+#4 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-08-29 18:31:14 Error: [MissingViewException] View file "Main/my_view_index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Main/my_view_index.ctp',
+)
+Request URL: /my_view/
+Stack Trace:
+#0 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/View/View.php(470): View->_getViewFileName(NULL)
+#1 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php(960): View->render(NULL, NULL)
+#2 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(MainController), Object(CakeRequest))
+#4 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-08-29 18:39:58 Error: [MissingViewException] View file "Helper/my_view_index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Helper/my_view_index.ctp',
+)
+Request URL: /my_view/helper/
+Stack Trace:
+#0 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/View/View.php(470): View->_getViewFileName(NULL)
+#1 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php(960): View->render(NULL, NULL)
+#2 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(HelperController), Object(CakeRequest))
+#4 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-08-29 18:43:05 Error: [MissingActionException] Action HelperController::my_view_html() could not be found.
+Exception Attributes: array (
+  'controller' => 'HelperController',
+  'action' => 'my_view_html',
+)
+Request URL: /my_view/helper/html
+Stack Trace:
+#0 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(HelperController), Object(CakeRequest))
+#2 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-08-29 18:43:24 Error: [MissingViewException] View file "Helper/my_view_html.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Helper/my_view_html.ctp',
+)
+Request URL: /my_view/helper/html
+Stack Trace:
+#0 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/View/View.php(470): View->_getViewFileName(NULL)
+#1 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php(960): View->render(NULL, NULL)
+#2 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(HelperController), Object(CakeRequest))
+#4 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-08-29 19:52:25 Error: Fatal Error (1): Call to a member function render() on a non-object in [/var/www/my_cakephp.com/app/View/MyView/Helper/my_view_html.ctp, line 6]
+2016-08-29 19:52:25 Error: [FatalErrorException] Call to a member function render() on a non-object
+Request URL: /my_view/helper/html
+Stack Trace:
+#0 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/my_cak...', 6)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/my_cak...', 6, Array)
+#2 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/my_cak...', 6, Array)
+#3 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-08-29 19:53:31 Error: Fatal Error (1): Call to a member function render() on a non-object in [/var/www/my_cakephp.com/app/View/MyView/Helper/my_view_html.ctp, line 7]
+2016-08-29 19:53:31 Error: [FatalErrorException] Call to a member function render() on a non-object
+Request URL: /my_view/helper/html
+Stack Trace:
+#0 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/my_cak...', 7)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/my_cak...', 7, Array)
+#2 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/my_cak...', 7, Array)
+#3 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-08-29 19:57:45 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/user/button01.png
+Stack Trace:
+#0 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-08-29 19:57:51 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/user/button01.png
+Stack Trace:
+#0 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-08-29 19:58:12 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/user/button01.png
+Stack Trace:
+#0 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-08-29 19:58:34 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/user/button01.png
+Stack Trace:
+#0 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-08-29 19:58:50 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/user/button01.png
+Stack Trace:
+#0 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-08-29 19:59:12 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/user/button01.png
+Stack Trace:
+#0 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-08-29 19:59:14 Error: [MissingActionException] Action HelperController::my_view_form() could not be found.
+Exception Attributes: array (
+  'controller' => 'HelperController',
+  'action' => 'my_view_form',
+)
+Request URL: /my_view/helper/form
+Stack Trace:
+#0 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(HelperController), Object(CakeRequest))
+#2 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-08-29 19:59:20 Error: [MissingActionException] Action HelperController::my_view_form() could not be found.
+Exception Attributes: array (
+  'controller' => 'HelperController',
+  'action' => 'my_view_form',
+)
+Request URL: /my_view/helper/form
+Stack Trace:
+#0 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(HelperController), Object(CakeRequest))
+#2 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-08-29 19:59:23 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/user/button01.png
+Stack Trace:
+#0 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-08-29 20:00:07 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/user/button01.png
+Stack Trace:
+#0 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-08-29 20:01:03 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/user/button01.png
+Stack Trace:
+#0 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-08-29 20:01:56 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/user/button01.png
+Stack Trace:
+#0 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-08-29 20:02:01 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/user/button01.png
+Stack Trace:
+#0 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-08-29 20:02:22 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/user/button01.png
+Stack Trace:
+#0 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-08-29 20:02:44 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/user/button01.png
+Stack Trace:
+#0 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-08-29 20:03:35 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/user/button01.png
+Stack Trace:
+#0 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-08-29 20:22:11 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/user/button01.png
+Stack Trace:
+#0 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-08-29 20:23:44 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/user/button01.png
+Stack Trace:
+#0 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-08-29 20:24:11 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/user/button01.png
+Stack Trace:
+#0 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-08-29 20:24:15 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/user/button01.png
+Stack Trace:
+#0 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-08-29 20:30:02 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/user/button01.png
+Stack Trace:
+#0 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-08-29 20:30:48 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/user/button01.png
+Stack Trace:
+#0 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-08-29 20:32:12 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/user/button01.png
+Stack Trace:
+#0 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-08-29 20:33:54 Error: Fatal Error (4): syntax error, unexpected ')', expecting ']' in [/var/www/my_cakephp.com/app/View/MyView/Helper/my_view_html.ctp, line 23]
+2016-08-29 20:33:54 Error: [FatalErrorException] syntax error, unexpected ')', expecting ']'
+Request URL: /my_view/helper/html
+Stack Trace:
+#0 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/my_cak...', 23)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/my_cak...', 23, Array)
+#2 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/my_cak...', 23, Array)
+#3 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-08-29 20:34:57 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/user/button01.png
+Stack Trace:
+#0 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-08-29 20:35:52 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/user/button01.png
+Stack Trace:
+#0 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-08-29 20:36:05 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/user/button01.png
+Stack Trace:
+#0 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-08-29 20:36:39 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/user/button01.png
+Stack Trace:
+#0 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-08-29 20:36:41 Error: [MissingControllerException] Controller class HogeController could not be found.
+Exception Attributes: array (
+  'class' => 'HogeController',
+  'plugin' => NULL,
+)
+Request URL: /hoge/fuga/
+Stack Trace:
+#0 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-08-29 20:37:16 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/user/button01.png
+Stack Trace:
+#0 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-08-29 20:37:20 Error: [MissingControllerException] Controller class HogeController could not be found.
+Exception Attributes: array (
+  'class' => 'HogeController',
+  'plugin' => NULL,
+)
+Request URL: /hoge/fuga/
+Stack Trace:
+#0 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-08-29 20:37:34 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/user/button01.png
+Stack Trace:
+#0 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-08-29 20:37:40 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/user/button01.png
+Stack Trace:
+#0 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-08-29 20:37:47 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/user/button01.png
+Stack Trace:
+#0 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-08-29 20:37:54 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/user/button01.png
+Stack Trace:
+#0 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-08-29 20:42:59 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/user/button01.png
+Stack Trace:
+#0 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-08-29 20:43:05 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/user/button01.png
+Stack Trace:
+#0 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-08-29 20:44:15 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/user/button01.png
+Stack Trace:
+#0 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-08-29 20:44:22 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/user/button01.png
+Stack Trace:
+#0 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-08-29 20:44:38 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/user/button01.png
+Stack Trace:
+#0 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-08-29 20:44:45 Error: [MissingControllerException] Controller class UserController could not be found.
+Exception Attributes: array (
+  'class' => 'UserController',
+  'plugin' => NULL,
+)
+Request URL: /my_view/user/regist
+Stack Trace:
+#0 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-08-29 20:45:00 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/user/button01.png
+Stack Trace:
+#0 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-08-29 20:45:43 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/user/button01.png
+Stack Trace:
+#0 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-08-29 20:45:53 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/user/button01.png
+Stack Trace:
+#0 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-08-29 20:47:23 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/user/button01.png
+Stack Trace:
+#0 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-08-29 20:47:32 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/user/button01.png
+Stack Trace:
+#0 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-08-29 20:48:07 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/user/button01.png
+Stack Trace:
+#0 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-08-29 20:48:15 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/user/button01.png
+Stack Trace:
+#0 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-08-29 20:48:27 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/user/button01.png
+Stack Trace:
+#0 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-08-29 20:48:55 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/user/button01.png
+Stack Trace:
+#0 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-08-29 20:49:43 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/user/button01.png
+Stack Trace:
+#0 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-08-29 20:50:29 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/user/button01.png
+Stack Trace:
+#0 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-08-29 20:50:30 Error: [MissingActionException] Action HelperController::my_view_hoge() could not be found.
+Exception Attributes: array (
+  'controller' => 'HelperController',
+  'action' => 'my_view_hoge',
+)
+Request URL: /my_view/helper/hoge/1
+Stack Trace:
+#0 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(HelperController), Object(CakeRequest))
+#2 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-08-29 20:50:49 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/user/button01.png
+Stack Trace:
+#0 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-08-29 20:50:51 Error: [MissingControllerException] Controller class HogeController could not be found.
+Exception Attributes: array (
+  'class' => 'HogeController',
+  'plugin' => NULL,
+)
+Request URL: /my_view/hoge/fuga/1
+Stack Trace:
+#0 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-08-29 20:59:13 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/user/button01.png
+Stack Trace:
+#0 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-08-29 20:59:14 Error: [MissingControllerException] Controller class HogeController could not be found.
+Exception Attributes: array (
+  'class' => 'HogeController',
+  'plugin' => NULL,
+)
+Request URL: /my_view/hoge/fuga/1
+Stack Trace:
+#0 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-08-29 20:59:25 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/user/button01.png
+Stack Trace:
+#0 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-08-29 20:59:26 Error: [MissingActionException] Action HelperController::my_view_fuga() could not be found.
+Exception Attributes: array (
+  'controller' => 'HelperController',
+  'action' => 'my_view_fuga',
+)
+Request URL: /my_view/helper/fuga/1
+Stack Trace:
+#0 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(HelperController), Object(CakeRequest))
+#2 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-08-29 21:04:10 Error: [MissingActionException] Action HelperController::my_view_form() could not be found.
+Exception Attributes: array (
+  'controller' => 'HelperController',
+  'action' => 'my_view_form',
+)
+Request URL: /my_view/helper/form
+Stack Trace:
+#0 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(HelperController), Object(CakeRequest))
+#2 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-08-29 21:04:22 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/user/button01.png
+Stack Trace:
+#0 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-08-29 21:04:24 Error: [MissingActionException] Action HelperController::my_view_fuga() could not be found.
+Exception Attributes: array (
+  'controller' => 'HelperController',
+  'action' => 'my_view_fuga',
+)
+Request URL: /my_view/helper/fuga/1
+Stack Trace:
+#0 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(HelperController), Object(CakeRequest))
+#2 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-08-29 21:04:32 Error: [MissingViewException] View file "Helper/my_view_fuga.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Helper/my_view_fuga.ctp',
+)
+Request URL: /my_view/helper/fuga/1
+Stack Trace:
+#0 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/View/View.php(470): View->_getViewFileName(NULL)
+#1 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php(960): View->render(NULL, NULL)
+#2 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(HelperController), Object(CakeRequest))
+#4 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-08-29 21:05:47 Error: Fatal Error (4): syntax error, unexpected 'exit' (T_EXIT) in [/var/www/my_cakephp.com/app/Controller/MyView/HelperController.php, line 16]
+2016-08-29 21:05:47 Error: [FatalErrorException] syntax error, unexpected 'exit' (T_EXIT)
+Request URL: /my_view/helper/fuga/1
+Stack Trace:
+#0 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/my_cak...', 16)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/my_cak...', 16, Array)
+#2 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/my_cak...', 16, Array)
+#3 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-08-29 21:06:14 Error: [MissingActionException] Action HelperController::my_view_form() could not be found.
+Exception Attributes: array (
+  'controller' => 'HelperController',
+  'action' => 'my_view_form',
+)
+Request URL: /my_view/helper/form
+Stack Trace:
+#0 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(HelperController), Object(CakeRequest))
+#2 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-08-29 21:07:13 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/user/button01.png
+Stack Trace:
+#0 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-08-29 21:25:34 Error: Fatal Error (4): syntax error, unexpected '<' in [/var/www/my_cakephp.com/app/View/MyView/Helper/my_view_form.ctp, line 18]
+2016-08-29 21:25:34 Error: [FatalErrorException] syntax error, unexpected '<'
+Request URL: /my_view/helper/form
+Stack Trace:
+#0 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/my_cak...', 18)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/my_cak...', 18, Array)
+#2 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/my_cak...', 18, Array)
+#3 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-08-29 21:41:09 Error: Fatal Error (1): Call to a member function save() on a non-object in [/var/www/my_cakephp.com/app/Controller/MyView/HelperController.php, line 15]
+2016-08-29 21:41:09 Error: [FatalErrorException] Call to a member function save() on a non-object
+Request URL: /my_view/helper/form
+Stack Trace:
+#0 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/my_cak...', 15)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/my_cak...', 15, Array)
+#2 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/my_cak...', 15, Array)
+#3 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-08-29 21:44:47 Error: Fatal Error (1): Class 'dBug' not found in [/var/www/my_cakephp.com/app/Controller/MyView/HelperController.php, line 17]
+2016-08-29 21:44:47 Error: [FatalErrorException] Class 'dBug' not found
+Request URL: /my_view/helper/form
+Stack Trace:
+#0 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Class 'dBug' no...', '/var/www/my_cak...', 17)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'dBug' no...', '/var/www/my_cak...', 17, Array)
+#2 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Class 'dBug' no...', '/var/www/my_cak...', 17, Array)
+#3 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-08-29 21:47:48 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/user/button01.png
+Stack Trace:
+#0 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-08-29 21:48:18 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/user/button01.png
+Stack Trace:
+#0 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-08-29 21:48:52 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/user/button01.png
+Stack Trace:
+#0 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-08-29 21:48:55 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/user/button01.png
+Stack Trace:
+#0 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-08-29 21:49:00 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/user/button01.png
+Stack Trace:
+#0 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-08-29 21:49:08 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/user/button01.png
+Stack Trace:
+#0 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-08-29 21:49:18 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/user/button01.png
+Stack Trace:
+#0 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-08-29 21:49:23 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/user/button01.png
+Stack Trace:
+#0 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-08-29 21:49:45 Error: [MissingActionException] Action HelperController::my_view_js() could not be found.
+Exception Attributes: array (
+  'controller' => 'HelperController',
+  'action' => 'my_view_js',
+)
+Request URL: /my_view/helper/js
+Stack Trace:
+#0 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(HelperController), Object(CakeRequest))
+#2 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-08-30 00:38:56 Error: [MissingActionException] Action HelperController::my_view_js() could not be found.
+Exception Attributes: array (
+  'controller' => 'HelperController',
+  'action' => 'my_view_js',
+)
+Request URL: /my_view/helper/js
+Stack Trace:
+#0 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(HelperController), Object(CakeRequest))
+#2 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-08-30 00:39:16 Error: [MissingActionException] Action HelperController::my_view_js() could not be found.
+Exception Attributes: array (
+  'controller' => 'HelperController',
+  'action' => 'my_view_js',
+)
+Request URL: /my_view/helper/js
+Stack Trace:
+#0 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(HelperController), Object(CakeRequest))
+#2 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-08-30 00:57:58 Error: [MissingControllerException] Controller class TipsController could not be found.
+Exception Attributes: array (
+  'class' => 'TipsController',
+  'plugin' => NULL,
+)
+Request URL: /my_view/tips/
+Stack Trace:
+#0 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-08-30 01:02:31 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/user/button01.png
+Stack Trace:
+#0 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-08-30 01:02:35 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/user/button01.png
+Stack Trace:
+#0 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-08-30 01:04:44 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/user/button01.png
+Stack Trace:
+#0 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-08-30 01:05:06 Error: [MissingActionException] Action HelperController::my_view_element() could not be found.
+Exception Attributes: array (
+  'controller' => 'HelperController',
+  'action' => 'my_view_element',
+)
+Request URL: /my_view/helper/element
+Stack Trace:
+#0 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(HelperController), Object(CakeRequest))
+#2 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-08-30 01:06:49 Error: [MissingViewException] View file "Helper/my_view_element.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Helper/my_view_element.ctp',
+)
+Request URL: /my_view/helper/element
+Stack Trace:
+#0 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/View/View.php(470): View->_getViewFileName(NULL)
+#1 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php(960): View->render(NULL, NULL)
+#2 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(HelperController), Object(CakeRequest))
+#4 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-08-30 01:14:43 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/user/button01.png
+Stack Trace:
+#0 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-08-30 01:29:02 Error: [MissingControllerException] Controller class MyTestController could not be found.
+Exception Attributes: array (
+  'class' => 'MyTestController',
+  'plugin' => NULL,
+)
+Request URL: /my_test/
+Stack Trace:
+#0 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-08-30 13:16:06 Error: [MissingControllerException] Controller class MyTestController could not be found.
+Exception Attributes: array (
+  'class' => 'MyTestController',
+  'plugin' => NULL,
+)
+Request URL: /my_test/
+Stack Trace:
+#0 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-08-30 13:16:11 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/user/button01.png
+Stack Trace:
+#0 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-08-30 13:16:37 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/user/button01.png
+Stack Trace:
+#0 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-08-30 13:16:42 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/user/button01.png
+Stack Trace:
+#0 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-08-30 13:18:14 Error: [MissingViewException] View file "Post/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Post/index.ctp',
+)
+Request URL: /post/
+Stack Trace:
+#0 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/View/View.php(470): View->_getViewFileName(NULL)
+#1 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php(960): View->render(NULL, NULL)
+#2 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostController), Object(CakeRequest))
+#4 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-08-30 13:22:58 Error: [MissingActionException] Action PostController::detail() could not be found.
+Exception Attributes: array (
+  'controller' => 'PostController',
+  'action' => 'detail',
+)
+Request URL: /post/detail/1
+Stack Trace:
+#0 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostController), Object(CakeRequest))
+#2 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-08-30 17:29:21 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/user/button01.png
+Stack Trace:
+#0 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-08-30 17:56:24 Error: Fatal Error (1): Call to undefined method AppHelperTest::testAction() in [/var/www/my_cakephp.com/app/Test/Case/View/Helper/AppHelperTest.php, line 22]
+2016-08-30 17:56:24 Error: [FatalErrorException] Call to undefined method AppHelperTest::testAction()
+Stack Trace:
+#0 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/var/www/my_cak...', 22)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/var/www/my_cak...', 22, Array)
+#2 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/var/www/my_cak...', 22, Array)
+#3 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-08-30 17:58:10 Error: Fatal Error (1): Call to a member function addParams() on a non-object in [/var/www/my_cakephp.com/app/Test/Case/View/Helper/AppHelperTest.php, line 22]
+2016-08-30 17:58:10 Error: [FatalErrorException] Call to a member function addParams() on a non-object
+Stack Trace:
+#0 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/my_cak...', 22)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/my_cak...', 22, Array)
+#2 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/my_cak...', 22, Array)
+#3 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-08-30 17:59:58 Error: Fatal Error (1): Call to a member function addParams() on a non-object in [/var/www/my_cakephp.com/app/Test/Case/View/Helper/AppHelperTest.php, line 22]
+2016-08-30 17:59:58 Error: [FatalErrorException] Call to a member function addParams() on a non-object
+Stack Trace:
+#0 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/my_cak...', 22)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/my_cak...', 22, Array)
+#2 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/my_cak...', 22, Array)
+#3 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-08-30 18:05:01 Error: Fatal Error (4): syntax error, unexpected '>', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in [/var/www/my_cakephp.com/app/Test/Case/View/Helper/AppHelperTest.php, line 12]
+2016-08-30 18:05:01 Error: [FatalErrorException] syntax error, unexpected '>', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+Stack Trace:
+#0 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/my_cak...', 12)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/my_cak...', 12, Array)
+#2 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/my_cak...', 12, Array)
+#3 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-08-30 18:05:01 Error: Fatal Error (4): syntax error, unexpected '>', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in [/var/www/my_cakephp.com/app/Test/Case/View/Helper/AppHelperTest.php, line 12]
+2016-08-30 18:05:01 Error: [FatalErrorException] syntax error, unexpected '>', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+Stack Trace:
+#0 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/my_cak...', 12)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/my_cak...', 12, Array)
+#2 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/my_cak...', 12, Array)
+#3 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}

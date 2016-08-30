@@ -1,0 +1,6 @@
+$this->Html->link(
+  $this->Html->image('user/button01.png'),
+  array('controller'=>'user','action'=>'regist'),
+  array('escape'=>false)
+);
+

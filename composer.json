@@ -1,0 +1,12 @@
+{
+    "name": "my_cakephp.com",
+    "require": {
+        "cakephp/cakephp": "2.6.10",
+        "cakephp/debug_kit": "2.2.*",
+        "nojimage/cakephp-environment": "dev-master",
+        "phpunit/phpunit": "3.7.38"
+    },
+    "config": {
+        "vendor-dir": "Vendor/"
+    }
+}
