@@ -18,7 +18,6 @@ class AppHelperTest extends CakeTestCase {
         'id' => 1,
         'content' => 'page1[nextpage_title="next"]page2'
       ];
-      $_SERVER['REQUEST_METHOD'] = 'GET';
       $result = $this->App->splitPage($arg);
       $this->assertContains('次のページ', $result);
       $this->assertContains('<ul class="in-post-pager">', $result);
