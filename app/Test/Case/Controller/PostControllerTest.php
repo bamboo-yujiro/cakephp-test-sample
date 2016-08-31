@@ -4,7 +4,7 @@ App::uses('AppController', 'Controller');
 
 class PostControllerTest extends ControllerTestCase {
 
-  public $fixtures = array('app.post');
+  public $fixtures = ['app.post'];
 
   public function testIndex() {
       $result = $this->testAction('/post/index');

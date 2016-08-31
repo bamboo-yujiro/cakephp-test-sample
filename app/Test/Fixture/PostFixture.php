@@ -2,7 +2,7 @@
 
 class PostFixture extends CakeTestFixture {
 
-      public $useDbConfig = 'test';
+      #public $useDbConfig = 'test';
 
       #public $import = 'Article';
 
@@ -41,4 +41,5 @@ class PostFixture extends CakeTestFixture {
             'updated' => '2016-03-18 10:45:31'
           )
       );
+
  }

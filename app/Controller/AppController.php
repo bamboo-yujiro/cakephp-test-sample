@@ -6,7 +6,8 @@ class AppController extends Controller {
 
   public $components = [
     'DebugKit.Toolbar',
-    'Session'
+    'Session',
+    'PostMeta'
   ];
 
   public $uses = [

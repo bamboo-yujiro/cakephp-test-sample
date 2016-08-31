@@ -1334,3 +1334,89 @@ Stack Trace:
 #3 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Core/App.php(906): App::_checkFatalError()
 #4 [internal function]: App::shutdown()
 #5 {main}
+2016-08-31 13:15:38 Error: Fatal Error (4): syntax error, unexpected ')' in [/var/www/my_cakephp.com/app/Controller/Component/HogeComponent.php, line 13]
+2016-08-31 13:15:38 Error: [FatalErrorException] syntax error, unexpected ')'
+Request URL: /
+Stack Trace:
+#0 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/my_cak...', 13)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/my_cak...', 13, Array)
+#2 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/my_cak...', 13, Array)
+#3 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-08-31 13:23:26 Error: [MissingComponentException] Component class HogeComponent could not be found.
+Exception Attributes: array (
+  'class' => 'HogeComponent',
+  'plugin' => false,
+)
+Request URL: /post/detail/1
+Stack Trace:
+#0 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Controller/ComponentCollection.php(53): ComponentCollection->load('Hoge', Array)
+#1 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php(643): ComponentCollection->init(Object(PostController))
+#2 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(188): Controller->constructClasses()
+#3 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostController), Object(CakeRequest))
+#4 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-08-31 13:33:35 Error: Fatal Error (1): Class 'TestPostMetaController' not found in [/var/www/my_cakephp.com/app/Test/Case/Controller/Component/PostMetaComponentTest.php, line 26]
+2016-08-31 13:33:35 Error: [FatalErrorException] Class 'TestPostMetaController' not found
+Stack Trace:
+#0 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Class 'TestPost...', '/var/www/my_cak...', 26)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'TestPost...', '/var/www/my_cak...', 26, Array)
+#2 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Class 'TestPost...', '/var/www/my_cak...', 26, Array)
+#3 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-08-31 13:33:43 Error: Fatal Error (1): Class 'PostMetaController' not found in [/var/www/my_cakephp.com/app/Test/Case/Controller/Component/PostMetaComponentTest.php, line 26]
+2016-08-31 13:33:43 Error: [FatalErrorException] Class 'PostMetaController' not found
+Stack Trace:
+#0 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Class 'PostMeta...', '/var/www/my_cak...', 26)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'PostMeta...', '/var/www/my_cak...', 26, Array)
+#2 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Class 'PostMeta...', '/var/www/my_cak...', 26, Array)
+#3 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-08-31 13:34:04 Error: Fatal Error (1): Class 'PostMetaController' not found in [/var/www/my_cakephp.com/app/Test/Case/Controller/Component/PostMetaComponentTest.php, line 27]
+2016-08-31 13:34:04 Error: [FatalErrorException] Class 'PostMetaController' not found
+Stack Trace:
+#0 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Class 'PostMeta...', '/var/www/my_cak...', 27)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'PostMeta...', '/var/www/my_cak...', 27, Array)
+#2 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Class 'PostMeta...', '/var/www/my_cak...', 27, Array)
+#3 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-08-31 13:34:14 Error: Fatal Error (1): Class 'AppController' not found in [/var/www/my_cakephp.com/app/Controller/PostController.php, line 3]
+2016-08-31 13:34:14 Error: [FatalErrorException] Class 'AppController' not found
+Stack Trace:
+#0 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Class 'AppContr...', '/var/www/my_cak...', 3)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'AppContr...', '/var/www/my_cak...', 3, Array)
+#2 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Class 'AppContr...', '/var/www/my_cak...', 3, Array)
+#3 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-08-31 13:34:19 Error: Fatal Error (1): Class 'PostController' not found in [/var/www/my_cakephp.com/app/Test/Case/Controller/Component/PostMetaComponentTest.php, line 26]
+2016-08-31 13:34:19 Error: [FatalErrorException] Class 'PostController' not found
+Stack Trace:
+#0 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Class 'PostCont...', '/var/www/my_cak...', 26)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'PostCont...', '/var/www/my_cak...', 26, Array)
+#2 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Class 'PostCont...', '/var/www/my_cak...', 26, Array)
+#3 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-08-31 13:37:16 Error: Fatal Error (4): syntax error, unexpected '}' in [/var/www/my_cakephp.com/app/Test/Case/Controller/Component/PostMetaComponentTest.php, line 38]
+2016-08-31 13:37:16 Error: [FatalErrorException] syntax error, unexpected '}'
+Stack Trace:
+#0 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/my_cak...', 38)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/my_cak...', 38, Array)
+#2 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/my_cak...', 38, Array)
+#3 /var/www/my_cakephp.com/Vendor/cakephp/cakephp/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-08-31 13:53:58 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/user/button01.png
+Stack Trace:
+#0 /var/www/my_cakephp.com/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}

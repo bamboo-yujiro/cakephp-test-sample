@@ -1,6 +1,13 @@
 <h2>Bumpさん用 CakePHP レクチャー</h2>
 
-<li><a href="/my_view/helper/">View/Helper</a></li>
+<ul>
+  <li><a href="/my_view/helper/">View/Helper</a></li>
+  <li><a href="/test.php">PHPUnitによるテスト</a></li>
+</ul>
 
-<li><a href="/test.php">テスト</a></li>
+<br><br>
+
+<a href="/post/">記事一覧</a>
+
+
 
