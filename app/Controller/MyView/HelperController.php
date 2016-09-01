@@ -12,8 +12,6 @@ class HelperController extends MyViewAppController {
     if($this->request->is('post')){
       if(!$this->Post->save($this->request->data)){
         $errors = $this->Post->validationErrors;
-        #new dBug($errors);
-        #die;
         $this->set(compact('errors'));
         $this->render();
       }

@@ -34,6 +34,7 @@ class PostMetaComponentTest extends CakeTestCase {
     $nPost = $this->PostMetaComponent->getNextPost(1);
     $this->assertArrayHasKey('Post', $nPost);
     $this->assertArrayHasKey('id', $nPost['Post']);
+    $this->assertEquals(2, $nPost['Post']['id']);
     $this->assertArrayHasKey('title', $nPost['Post']);
     $this->assertArrayHasKey('content', $nPost['Post']);
   }
